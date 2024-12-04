@@ -1,10 +1,10 @@
 
-id = "WebfishingSampleMod"
-name = "Webfishing Sample Mod"
-description = "This is a sample mod."
+id = "Kaiawoo.SkyboxFuckery"
+name = "Skybox Fuckery"
+description = "Why am I doing this."
 version = "1.0.0"
 homepage = "https://github.com/NotNite/WebfishingSampleMod"
-author = "You!"
+author = "Kaiawoo"
 
 icon = "icon.png"
 readme = "README.md"

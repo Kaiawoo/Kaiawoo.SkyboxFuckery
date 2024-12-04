@@ -1,3 +1,3 @@
-# WebfishingSampleMod
+# Kaiawoo.SkyboxFuckery
 
-See [the setup guide](https://notnite.github.io/webfishing-mod-wiki/guides/setup/) for more information.
+Meow :3
